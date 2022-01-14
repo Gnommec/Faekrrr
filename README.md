@@ -1,4 +1,4 @@
-# .NET; Blazor; C#; Python; FastApi; IoT; Tensorflow
+# .NET; Blazor; C#; Python; FastApi; IoT; Tensorflow; AWS;
 ## MSSQL; MySQL; PostGreSQL; InfluxDB;
 ### Business management applications; IoT Applications; AI
 
