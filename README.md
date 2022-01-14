@@ -1,6 +1,8 @@
-# Hello 
-### Currently: ASP.NET; ADO.NET; Node, React, TypeScript, ThreeJS 
-I’m looking for creative projects and develop my skills <br>
+# .NET; Blazor; C#; Python; FastApi; IoT; Tensorflow
+## MSSQL; MySQL; PostGreSQL; InfluxDB;
+### Business management applications; IoT Applications; AI
+
+Looking for innovative projects in the newest techs<br>
 You can reach me on <a href="https://www.linkedin.com/in/natan-miziołek-7aa13419a/">LinkedIn</a> 
 
 <!---
