@@ -1,6 +1,6 @@
 # .NET; Blazor; C#; Python; FastApi; IoT; Tensorflow; AWS;
 ## MSSQL; MySQL; PostGreSQL; InfluxDB;
-### Business management applications; IoT Applications; AI
+### Business management applications; IoT Applications;
 
 Looking for innovative projects in the newest techs<br>
 
